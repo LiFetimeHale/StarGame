@@ -1,0 +1,14 @@
+E:\unity_project\StarGame\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.dll
+E:\unity_project\StarGame\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.pdb
+E:\unity_project\StarGame\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+E:\unity_project\StarGame\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+E:\unity_project\StarGame\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\unity_project\StarGame\Temp\UnityVS_bin\Debug\UnityEditor.UI.dll
+E:\unity_project\StarGame\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\unity_project\StarGame\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\unity_project\StarGame\Temp\UnityVS_bin\Debug\UnityVS.VersionSpecific.dll
+E:\unity_project\StarGame\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\unity_project\StarGame\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\unity_project\StarGame\obj\Debug\UnityVS.StarGame.CSharp.Editor.csprojResolveAssemblyReference.cache
+E:\unity_project\StarGame\obj\Debug\Assembly-CSharp-Editor.dll
+E:\unity_project\StarGame\obj\Debug\Assembly-CSharp-Editor.pdb

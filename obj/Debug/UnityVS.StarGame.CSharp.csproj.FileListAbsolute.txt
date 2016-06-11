@@ -1,0 +1,9 @@
+E:\unity_project\StarGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\unity_project\StarGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\unity_project\StarGame\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\unity_project\StarGame\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\unity_project\StarGame\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\unity_project\StarGame\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\unity_project\StarGame\obj\Debug\Assembly-CSharp.dll
+E:\unity_project\StarGame\obj\Debug\Assembly-CSharp.pdb
+E:\unity_project\StarGame\obj\Debug\UnityVS.StarGame.CSharp.csprojResolveAssemblyReference.cache
